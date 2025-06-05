@@ -39,7 +39,7 @@ $result=mysqli_query($conn,$sql);
         <a href="del-prc.php?id=<?=$row['id']?>" onclick="Are you sure?">
            <img src="action/del.png" width="50" height="50"/>
         </a>
-       <a href="form-edit.php?id<?=$row['id']?>">
+       <a href="form-edit.php?id=<?=$row['id']?>">
          <img src="action/edit.png" width="50" height="50"/>
        </a>
        
