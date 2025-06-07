@@ -37,7 +37,7 @@
 <div class="container my-2 mx-2">
   <div class="row">
     <!--Cards1--->
-    <div class="col-md-4">
+    <div class="col-md-3">
       <div class="card">
         <img src="home-img/men.jpg" class="card-img-top" alt="..." style="height: 200px; width: 100%; object-fit: cover;">
         <div class="card-body">
@@ -48,7 +48,7 @@
       </div>
     </div>
 <!--Cards2--->
-    <div class="col-md-4">
+    <div class="col-md-3">
       <div class="card">
         <img src="home-img/men.jpg" class="card-img-top" alt="..." style="height: 200px; width: 100%; object-fit: cover;">
         <div class="card-body">
@@ -59,7 +59,7 @@
       </div>
     </div>
 <!--Cards3--->
-    <div class="col-md-4">
+    <div class="col-md-3">
       <div class="card">
         <img src="home-img/men.jpg" class="card-img-top" alt="..." style="height: 200px; width: 100%; object-fit: cover;">
         <div class="card-body">
@@ -70,7 +70,7 @@
       </div>
     </div>
     <!--Cards4--->
-    <div class="col-md-4">
+    <div class="col-md-3">
       <div class="card">
         <img src="home-img/men.jpg" class="card-img-top" alt="..." style="height: 200px; width: 100%; object-fit: cover;">
         <div class="card-body">
